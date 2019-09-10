@@ -33,7 +33,7 @@ It is implemented in Cython.
 * NumPy >= 1.14.0
 * Cython >= 0.27.3
 * shapely >= 1.6.4
-* Geohash ==1.0
+* geohash2 ==1.1
 * pandas >= 0.20.3
 * scipy >=0.19.1
 * A working C/C++ compiler.
